@@ -1,0 +1,32 @@
+{
+  "status": "ok",
+  "totalResults": 2,
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Neurosciencenews.com"
+      },
+      "author": "Neuroscience News",
+      "title": "Deep Meditation May Alter Gut Microbes for Better Health - Neuroscience News",
+      "description": "Regularly practicing meditation helps regulate the gut microbiome and has the potential to lower anxiety, depression, and heart disease, a new study reports.",
+      "url": "https://neurosciencenews.com/meditation-microbiome-health-22276/",
+      "urlToImage": "https://neurosciencenews.com/files/2023/01/meditation-gut-health-neurosinces-public.jpg",
+      "publishedAt": "2023-01-17T18:39:54Z",
+      "content": "Summary: Regularly practicing meditation helps regulate the gut microbiome and has the potential to lower anxiety, depression, and heart disease, a new study reports.\r\nSource: BMJ\r\nRegular deep medit… [+6829 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YouTube"
+      },
+      "author": null,
+      "title": "Yes, The Hybrid And AWD 2024 Chevrolet Corvette E-Ray Can Drift | Reveal - Car and Driver",
+      "description": "Read the full story here: https://www.caranddriver.com/news/a42487697/2024-chevrolet-corvette-e-ray-revealed/The 2024 Chevy Corvette E-Ray enters the fray as...",
+      "url": "https://www.youtube.com/watch?v=Mj4t2OyeEds",
+      "urlToImage": "https://i.ytimg.com/vi/Mj4t2OyeEds/hqdefault.jpg",
+      "publishedAt": "2023-01-17T14:00:21Z",
+      "content": null
+    }
+  ]
+}
